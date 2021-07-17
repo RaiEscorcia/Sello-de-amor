@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    font-family: 'Century Gothic';
+    height: 120vh;
+	width:100%;
+}
+
+#header{
+    height: 20%;
+    width:100%;
+}
+
+#middle {
+    height: 75%;
+    width:100%;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+}
+
+#footer {
+    height: 5%;
+    width:100%;
+    background: #000;
+    text-align: center;
+    padding-top: 0.5%;
+}
+
+#footer p {
+    color:lavender;
+}
+
+.container-final #encabezado {
+    position: absolute;
+    width: 100%;
+    height: 24%;
+}
+
+.container-final #menu {
+    background-color: #000;
+    border-color: #9c833c;
+    border-style: double;
+    text-align: center;
+    color: lavenderblush;
+}
+
+#middle h4{
+    margin: 0;
+}
+
